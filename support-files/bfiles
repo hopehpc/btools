@@ -2,4 +2,3 @@
 /etc/group
 /etc/shadow
 /etc/gshadow
-/home/*
